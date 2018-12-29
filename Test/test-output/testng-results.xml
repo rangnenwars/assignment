@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="38178" started-at="2018-12-29T08:01:14Z" finished-at="2018-12-29T08:01:52Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="38178" started-at="2018-12-29T08:01:14Z" finished-at="2018-12-29T08:01:52Z">
+      <class name="main.QuintInsti">
+        <test-method status="PASS" signature="login()[pri:0, instance:main.QuintInsti@1ebcd8]" name="login" duration-ms="28954" started-at="2018-12-29T08:01:14Z" finished-at="2018-12-29T08:01:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="profile()[pri:0, instance:main.QuintInsti@1ebcd8]" name="profile" duration-ms="7269" started-at="2018-12-29T08:01:43Z" finished-at="2018-12-29T08:01:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- profile -->
+        <test-method status="PASS" signature="services()[pri:0, instance:main.QuintInsti@1ebcd8]" name="services" duration-ms="1383" started-at="2018-12-29T08:01:50Z" finished-at="2018-12-29T08:01:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- services -->
+        <test-method status="PASS" signature="totout()[pri:0, instance:main.QuintInsti@1ebcd8]" name="totout" duration-ms="521" started-at="2018-12-29T08:01:51Z" finished-at="2018-12-29T08:01:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totout -->
+      </class> <!-- main.QuintInsti -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite1 -->
+</testng-results>
